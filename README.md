@@ -11,7 +11,9 @@ Each launch automatically applies the necessary resolution patches and widescree
 📏 Automatically detects your screen resolution or allows manual selection:
 
 --max — maximum supported resolution
+
 --custom WIDTHxHEIGHT — any custom resolution
+
 
 ⚖️ Validates the resolution table in the game files to prevent invalid values.
 
