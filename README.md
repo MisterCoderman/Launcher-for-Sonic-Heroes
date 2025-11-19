@@ -25,6 +25,10 @@ Each launch automatically applies the necessary resolution patches and widescree
 
 ▶️ Automatically launches Tsonic_win.exe after applying all patches.
 
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
+See https://www.gnu.org/licenses/gpl-3.0.html for full license text.
+
+
 <hr>
 Этот лаунчер предназначен для корректной работы Sonic Heroes с любыми разрешениями и поддержкой широкого экрана на современных версиях Windows.
 Поместите файл в папку с игрой и запускайте игру только через Launcher.exe.
@@ -51,3 +55,6 @@ Each launch automatically applies the necessary resolution patches and widescree
 🔤 Работа напрямую с исполняемым файлом без создания лишних файлов.
 
 ▶️ Автоматический запуск Tsonic_win.exe после применения всех патчей.
+
+Этот проект лицензирован в соответствии с GNU General Public License версии 3.0 (GPL-3.0). Полный текст лицензии доступен по ссылке: https://www.gnu.org/licenses/gpl-3.0.html
+
